@@ -1,0 +1,112 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 23.02.2016 15:48:26
+
+newmtl dinersign
+	Ns 96.0784
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.7433 0.5426 0.6784
+	Ks 0.1000 0.1000 0.1000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Leah\Downloads\LookingUp-master\dinerBuildingModel\Texture\dinersign.tga
+	map_Kd C:\Users\Leah\Downloads\LookingUp-master\dinerBuildingModel\Texture\dinersign.tga
+	map_bump C:\Users\Leah\Downloads\LookingUp-master\dinerBuildingModel\Texture\dinersign_normal.tga
+	bump C:\Users\Leah\Downloads\LookingUp-master\dinerBuildingModel\Texture\dinersign_normal.tga
+
+newmtl alumox
+	Ns 96.0784
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5530 0.6455 0.6225
+	Ks 0.1000 0.1000 0.1000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Leah\Downloads\LookingUp-master\dinerBuildingModel\Texture\alumox.tga
+	map_Kd C:\Users\Leah\Downloads\LookingUp-master\dinerBuildingModel\Texture\alumox.tga
+	map_bump C:\Users\Leah\Downloads\LookingUp-master\dinerBuildingModel\Texture\alumox_normal.tga
+	bump C:\Users\Leah\Downloads\LookingUp-master\dinerBuildingModel\Texture\alumox_normal.tga
+
+newmtl mh_dumbodinner
+	Ns 96.0784
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5646 0.4888 0.3299
+	Ks 0.1000 0.1000 0.1000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Leah\Downloads\LookingUp-master\dinerBuildingModel\Texture\mh_dumbodinner.tga
+	map_Kd C:\Users\Leah\Downloads\LookingUp-master\dinerBuildingModel\Texture\mh_dumbodinner.tga
+	map_bump C:\Users\Leah\Downloads\LookingUp-master\dinerBuildingModel\Texture\mh_dumbodinner_normal.tga
+	bump C:\Users\Leah\Downloads\LookingUp-master\dinerBuildingModel\Texture\mh_dumbodinner_normal.tga
+
+newmtl ks_dinermet_02
+	Ns 96.0784
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5990 0.7458 0.7019
+	Ks 0.1000 0.1000 0.1000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Leah\Downloads\LookingUp-master\dinerBuildingModel\Texture\ks_dinermet_02.tga
+	map_Kd C:\Users\Leah\Downloads\LookingUp-master\dinerBuildingModel\Texture\ks_dinermet_02.tga
+	map_bump C:\Users\Leah\Downloads\LookingUp-master\dinerBuildingModel\Texture\ks_dinermet_02_normal.tga
+	bump C:\Users\Leah\Downloads\LookingUp-master\dinerBuildingModel\Texture\ks_dinermet_02_normal.tga
+
+newmtl ks_dinermet_02_ks_dinermet_02_tga
+	Ns 96.0784
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5990 0.7458 0.7019
+	Ks 0.1000 0.1000 0.1000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Leah\Downloads\LookingUp-master\dinerBuildingModel\Texture\ks_dinermet_02.tga
+	map_Kd C:\Users\Leah\Downloads\LookingUp-master\dinerBuildingModel\Texture\ks_dinermet_02.tga
+
+newmtl mh_dinerdet
+	Ns 96.0784
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.7828 0.7796 0.4939
+	Ks 0.1000 0.1000 0.1000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Leah\Downloads\LookingUp-master\dinerBuildingModel\Texture\mh_dinerdet.tga
+	map_Kd C:\Users\Leah\Downloads\LookingUp-master\dinerBuildingModel\Texture\mh_dinerdet.tga
+	map_bump C:\Users\Leah\Downloads\LookingUp-master\dinerBuildingModel\Texture\mh_dinerdet_normal.tga
+	bump C:\Users\Leah\Downloads\LookingUp-master\dinerBuildingModel\Texture\mh_dinerdet_normal.tga
+
+newmtl diner_door
+	Ns 96.0784
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6988 0.3982 0.6121
+	Ks 0.1000 0.1000 0.1000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Leah\Downloads\LookingUp-master\dinerBuildingModel\Texture\diner_door.tga
+	map_Kd C:\Users\Leah\Downloads\LookingUp-master\dinerBuildingModel\Texture\diner_door.tga
+	map_bump C:\Users\Leah\Downloads\LookingUp-master\dinerBuildingModel\Texture\diner_door_normal.tga
+	bump C:\Users\Leah\Downloads\LookingUp-master\dinerBuildingModel\Texture\diner_door_normal.tga
