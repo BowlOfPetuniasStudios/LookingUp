@@ -1,0 +1,4 @@
+bluejay: http://tf3dm.com/download-page.php?url=blue-jay-bird-81922
+crow: http://tf3dm.com/3d-model/crow-2057.html
+eagle: http://tf3dm.com/3d-model/eagle-2-59246.html
+gull: http://tf3dm.com/3d-model/gull-17126.html
